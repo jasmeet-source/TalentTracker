@@ -1,0 +1,14 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  TalentTracker.Core -> C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Core\bin\Debug\net8.0\TalentTracker.Core.dll
+  TalentTracker.Infrastructure -> C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Infrastructure\bin\Debug\net8.0\TalentTracker.Infrastructure.dll
+  TalentTracker.Service -> C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Service.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.API\Controllers\ComplaintsController.cs(33,70): error CS0246: The type or namespace name 'UpdateComplaintStatusRequest' could not be found (are you missing a using directive or an assembly reference?) [C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.API\TalentTracker.API.csproj]
+
+Build FAILED.
+
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.API\Controllers\ComplaintsController.cs(33,70): error CS0246: The type or namespace name 'UpdateComplaintStatusRequest' could not be found (are you missing a using directive or an assembly reference?) [C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.API\TalentTracker.API.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.39

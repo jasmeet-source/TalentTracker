@@ -1,0 +1,17 @@
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Service.deps.json
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Service.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Service.pdb
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Core.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Infrastructure.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Core.pdb
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\bin\Debug\net8.0\TalentTracker.Infrastructure.pdb
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.csproj.AssemblyReference.cache
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.AssemblyInfoInputs.cache
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.AssemblyInfo.cs
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTr.5717C27A.Up2Date
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\refint\TalentTracker.Service.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\TalentTracker.Service.pdb
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Service\obj\Debug\net8.0\ref\TalentTracker.Service.dll
