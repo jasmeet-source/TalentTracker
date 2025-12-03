@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g7fZ1VOAKZ4=",
+  "dgSpecHash": "434WCnSrH7Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasmeet\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Jasmeet\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

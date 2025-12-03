@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentTracker.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbbb5dbc48950d23e8ba930c23744827b395861")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de56532e2bf7fc5f389aad76f61a702a8a8dd29")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentTracker.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentTracker.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

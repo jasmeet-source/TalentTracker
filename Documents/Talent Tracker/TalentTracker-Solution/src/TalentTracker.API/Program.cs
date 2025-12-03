@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Npgsql;
 using TalentTracker.Core.Interfaces;
 using TalentTracker.Infrastructure.Data;
 using TalentTracker.Infrastructure.Repositories;
