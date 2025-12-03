@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbbb5dbc48950d23e8ba930c23744827b395861")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

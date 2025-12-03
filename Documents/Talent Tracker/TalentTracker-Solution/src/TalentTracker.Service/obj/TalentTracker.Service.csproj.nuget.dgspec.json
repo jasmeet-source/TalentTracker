@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj": {}
+    "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj": {}
   },
   "projects": {
     "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Core\\TalentTracker.Core.csproj": {
@@ -69,14 +69,14 @@
         }
       }
     },
-    "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj": {
+    "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
         "projectName": "TalentTracker.Infrastructure",
-        "projectPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Jasmeet\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj": {
+    "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj",
         "projectName": "TalentTracker.Service",
-        "projectPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj",
+        "projectPath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\TalentTracker.Service.csproj",
         "packagesPath": "C:\\Users\\Jasmeet\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\obj\\",
+        "outputPath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -185,8 +185,8 @@
               "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Core\\TalentTracker.Core.csproj": {
                 "projectPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Core\\TalentTracker.Core.csproj"
               },
-              "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj"
+              "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Jasmeet\\Documents\\Talent Tracker\\TalentTracker-Solution\\src\\TalentTracker.Infrastructure\\TalentTracker.Infrastructure.csproj"
               }
             }
           }

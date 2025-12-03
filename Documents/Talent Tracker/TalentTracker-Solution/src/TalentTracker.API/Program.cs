@@ -21,8 +21,33 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Database
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Database
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
+
+if (!string.IsNullOrEmpty(databaseUrl))
+{
+    // Parse Render's DATABASE_URL (postgres://user:pass@host/dbname)
+    var databaseUri = new Uri(databaseUrl);
+    var userInfo = databaseUri.UserInfo.Split(':');
+    var builderNpgsql = new Npgsql.NpgsqlConnectionStringBuilder
+    {
+        Host = databaseUri.Host,
+        Port = databaseUri.Port,
+        Username = userInfo[0],
+        Password = userInfo[1],
+        Database = databaseUri.LocalPath.TrimStart('/'),
+        SslMode = Npgsql.SslMode.Require,
+        TrustServerCertificate = true
+    };
+    builder.Services.AddDbContext<AppDbContext>(options =>
+        options.UseNpgsql(builderNpgsql.ToString()));
+}
+else
+{
+    builder.Services.AddDbContext<AppDbContext>(options =>
+        options.UseSqlServer(connectionString));
+}
 
 // Repositories
 builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));

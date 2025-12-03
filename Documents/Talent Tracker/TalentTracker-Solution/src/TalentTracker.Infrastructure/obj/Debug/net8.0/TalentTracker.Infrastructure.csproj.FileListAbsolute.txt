@@ -13,3 +13,4 @@ C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTrack
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Infrastructure\obj\Debug\net8.0\refint\TalentTracker.Infrastructure.dll
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Infrastructure\obj\Debug\net8.0\TalentTracker.Infrastructure.pdb
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Infrastructure\obj\Debug\net8.0\ref\TalentTracker.Infrastructure.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Infrastructure\obj\Debug\net8.0\TalentTracker.Infrastructure.sourcelink.json

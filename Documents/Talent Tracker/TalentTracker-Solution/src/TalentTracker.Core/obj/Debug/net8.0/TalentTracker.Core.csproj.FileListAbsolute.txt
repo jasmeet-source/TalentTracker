@@ -9,3 +9,4 @@ C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTrack
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Core\obj\Debug\net8.0\refint\TalentTracker.Core.dll
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Core\obj\Debug\net8.0\TalentTracker.Core.pdb
 C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Core\obj\Debug\net8.0\ref\TalentTracker.Core.dll
+C:\Users\Jasmeet\Documents\Talent Tracker\TalentTracker-Solution\src\TalentTracker.Core\obj\Debug\net8.0\TalentTracker.Core.sourcelink.json
